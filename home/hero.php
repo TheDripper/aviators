@@ -3,7 +3,7 @@
 <div class="header-title">Soar to new heights with peace of mind.</div>
 <div class="header-sub">Our complete policies will get you the<br>coverage and confidence you need.</div>
 	<div class="tri">
-	<div class="text-center bg-shaded wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="text-center bg-shaded wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper shade">
 		<div class="wpb_single_image wpb_content_element vc_align_center">
 			
 			<figure class="wpb_wrapper vc_figure">
@@ -20,7 +20,7 @@
 		</div>
 	<div class="vc_btn3-container vc_btn3-inline">
 		<a style="background-color:#0077c3; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-square vc_btn3-style-custom" href="https://aviators.aeroinsure.com/DTM/US/SNK/Home" title="" target="_blank">GET A QUOTE</a></div>
-	</div></div></div><div class="text-center bg-shaded wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	</div></div></div><div class="text-center bg-shaded wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper shade">
 		<div class="wpb_single_image wpb_content_element vc_align_center">
 			
 			<figure class="wpb_wrapper vc_figure">
@@ -37,7 +37,7 @@
 		</div>
 	<div class="vc_btn3-container vc_btn3-inline">
 		<a style="background-color:#0077c3; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-square vc_btn3-style-custom" href="https://aviators.aeroinsure.com/DTM/US/PNO/Home" title="" target="_blank">GET A QUOTE</a></div>
-	</div></div></div><div class="text-center bg-shaded wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	</div></div></div><div class="text-center bg-shaded wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper shade">
 		<div class="wpb_single_image wpb_content_element vc_align_center">
 			
 			<figure class="wpb_wrapper vc_figure">
