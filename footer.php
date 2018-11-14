@@ -1,3 +1,10 @@
+		<div class="frame blu">
+		<div class=tent>
+			<div class="fat-white">GET A QUOTE</div>
+<p>Let us take you under our wing – Our knowledge of aviation and insurance assures you’ll get the coverage you need for price you want, wherever your journey may take you.</p>
+<a href=# id=gettit>GET A QUOTE</a>
+		</div>
+		</div>
 <footer>
 <div class="cont flex">
 
